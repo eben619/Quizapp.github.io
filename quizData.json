@@ -1,0 +1,64 @@
+[
+  {
+    "question": "Who is the president of Ghana?",
+    "options": [
+      "Nana Addo",
+      "Buhari",
+      "Donald  Trump",
+      "Joe Biden"
+    ],
+    "answer": "Nana Addo"
+  },
+  {
+    "question": "Who discoveredd America?",
+    "options": ["Cristopher columbus",
+               "Davido", 
+               "Andrew Tate", 
+               "Napoleon Bonnaparte"],
+    "answer": "Cristopher columbus"
+  },
+  {
+    "question": "Who invented the parachute?",
+    "options": ["Nikola Tesla",
+               "Thomas Edison", 
+               "Leonardo Da Vinci", 
+               "Francois luke"],
+    "answer": "Leonardo Da Vinci"
+  },
+  {
+    "question": "Which month is the 3rd month in a year?",
+    "options": ["December", "Wednessday", "March", "April"],
+    "answer": "March"
+  },
+  {
+    "question": "Which month is christmas celebrated?",
+    "options": ["December", "Wednessday", "March", "December"],
+    "answer": "December"
+  },
+  {
+    "question": "What is the name of the presidet of the USA?",
+    "options": [
+      "Joe Biden",
+      "Sarkodie",
+      "Evans Ndicka",
+      "Barrack Obama"
+    ],
+    "answer": "Joe Biden"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Polar Bear"],
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "Which country is at war with Ukraine?",
+    "options": ["New Zealand", "South Africa", "Russia", "Canada"],
+    "answer": "Russia"
+  },
+  {
+    "question": "What is the capital of Ghana?",
+    "options": ["Sydney", "Accra", "Perth", "Canberra"],
+    "answer": "Accra"
+  }
+
+]
